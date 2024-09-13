@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 
+p{
+    color: red;
+}
+
+#para4{
+    color: yellowgreen;
+}
+
+.group-para{
+    background-color: tomato;
+    color: green;
+} */
+
+/* .group-para, #para4{
+    background-color: red;
+} */
+
+
+p{
+    background-color: red;
+    height: auto;
+    width: 400px;
+    margin:auto;
+    padding: 50px;
+    text-align: justify;
+}
+
+/* #first-para{
+    margin: 100px;
+    background-color: blue;
+    margin: 50px 40px 30px 20px;
+    margin: 50px 40px;
+    margin: 50px 40px 30px;
+
+} */
+
